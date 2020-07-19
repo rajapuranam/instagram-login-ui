@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginInstagramUI</string>
+    <string name="forgot">Forgot your login details? <b>Get help signing in.</b></string>
+    <string name="signup">
+        Don\'t have an account? <b>Sign up.</b>
+    </string>
+</resources>
